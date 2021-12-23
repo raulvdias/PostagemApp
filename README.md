@@ -1,4 +1,6 @@
 # PostagemApp
+
+- Aplicativo que adiciona e lista postagens.
  
 **Separação de contextos**
 
